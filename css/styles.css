@@ -1,67 +1,17 @@
-/*COlORS
-
-l_blue: #4B9EC4
-blue: #2C68B0
-yellow: #F3BD32
-orange: #DC6E19
-red: #F04022
-*/
-
 /*FONTS
-font-family: 'Yellowtail', cursive;
-font-family: 'Vast Shadow', cursive;
-font-family: 'Istok Web', sans-serif;
-font-family: 'Eater', cursive;
+
+font-family: 'Anton', sans-serif;
+font-family: 'Raleway', sans-serif;
+
 */
 
-/*GLOBAL*/
+/*COLORS
 
-body{
-  background-image: url(../img/bg.png);
-}
-
-/*NAVIGATION*/
-
-ul{
-  list-style: none;
-  background-color: #2C68B0;
-  width: 100%;
-  padding: 20px;
-}
-
-li {
-    display: inline-block;
-}
-
-a {
-  text-decoration: none;
-  color: #4B9EC4; 
-}
+#3F731A
+#80BF41
+#3D5928
+#AED984
+white
 
 
-/*BODY */
-
-h1 {
-  font-family: 'Eater', cursive;
-  font-size: 6em;
-  color: #4B9EC4;
-  width: 100%;
-  text-align: center;
-}
-
-p{
-  font-family: 'Istok Web', sans-serif;
-}
-
-
-/*IMAGES*/
-
-img{
-  width: 75%;
-}
-
-
-
-
-
-
+*/
