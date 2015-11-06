@@ -85,7 +85,7 @@ aside img{
 }
 
 #modern{
-  float: left;
+  float: right;
   width: 50%
 }
 
@@ -109,7 +109,17 @@ p{
 /*BLOCKQUOTE*/
 
 
-
+blockquote{
+  font-family: 'Anton', sans-serif;
+  color: #3F731A;
+  text-align: center;
+  font-size: 5.6em;
+  padding-top: 40px;
+  border-top: 10px double #AED984;
+  padding-bottom: 40px;
+  border-bottom: 10px double #AED984;
+  
+}
 
 
 
