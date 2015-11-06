@@ -13,5 +13,10 @@ font-family: 'Raleway', sans-serif;
 #AED984
 white
 
-
 */
+
+/*GLOBAL*/
+
+body{
+  background-image: url(..img/bg.png);
+}
