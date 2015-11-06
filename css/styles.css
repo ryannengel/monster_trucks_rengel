@@ -36,8 +36,15 @@ h2{
   font-family: 'Anton', sans-serif;
   color: #3F731A;
   font-size: 2.5em;
-  display: inline;
-  
+  display: block;
+  float: right;
+  text-align: center;
+  width: 50%;
+}
+
+footer p{
+  text-align: center;
+  width: 100%;
 }
 
 
@@ -78,8 +85,8 @@ aside img{
 }
 
 #batman{
-  float: right;
-  width: 50%
+  float: left;
+  width: 50%;
 
 }
 
@@ -102,6 +109,9 @@ p{
   text-align: center;
   width: 50%;
   display: inline-block;
+  padding: 20px 20px 20px 20px;
+  margin-top: -40px;
+  margin-bottom: 60px
 }
 
 
